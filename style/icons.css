@@ -1,0 +1,9 @@
+@font-face {
+    src: url(../fotsawesome/webfonts/fa-light-300.ttf);
+    font-family: 'icons';
+    font-weight: 300;
+}
+
+.fl{
+    font-weight: 300;
+}
